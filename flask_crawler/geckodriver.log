@@ -1,0 +1,691 @@
+1538752015991	geckodriver	INFO	geckodriver 0.21.0
+1538752016006	geckodriver	INFO	Listening on 127.0.0.1:51480
+1538752019099	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.fnf8MEppetxW"
+*** You are running in headless mode.
+1538752020526	Marionette	INFO	Listening on port 51488
+1538752020758	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538752020783	Marionette	DEBUG	[6442450945] Frame script loaded
+1538752020784	Marionette	DEBUG	[6442450945] Frame script registered
+1538752020796	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538752021038	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538752021768	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+1538752022493	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1538752096367	geckodriver	INFO	geckodriver 0.21.0
+1538752096367	geckodriver	INFO	Listening on 127.0.0.1:51552
+1538752099429	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.nZ30OIOp6rYp"
+*** You are running in headless mode.
+1538752100825	Marionette	INFO	Listening on port 51560
+1538752101105	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538752101134	Marionette	DEBUG	[6442450945] Frame script loaded
+1538752101135	Marionette	DEBUG	[6442450945] Frame script registered
+1538752101150	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538752101477	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538752102192	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+1538752103039	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1538752252384	geckodriver	INFO	geckodriver 0.21.0
+1538752252384	geckodriver	INFO	Listening on 127.0.0.1:51628
+1538752255430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.lHUHInxU82Zf"
+*** You are running in headless mode.
+1538752256690	Marionette	INFO	Listening on port 51636
+1538752257089	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538752257114	Marionette	DEBUG	[6442450945] Frame script loaded
+1538752257116	Marionette	DEBUG	[6442450945] Frame script registered
+1538752257129	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538752257408	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538752257962	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+1538752259152	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1538752418876	geckodriver	INFO	geckodriver 0.21.0
+1538752418876	geckodriver	INFO	Listening on 127.0.0.1:51694
+1538752421938	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.w0aiadl4kQEc"
+*** You are running in headless mode.
+1538752423500	Marionette	INFO	Listening on port 51702
+1538752423596	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538752423623	Marionette	DEBUG	[6442450945] Frame script loaded
+1538752423624	Marionette	DEBUG	[6442450945] Frame script registered
+1538752423637	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538752423888	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538752424709	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+1538752425478	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1538752513104	geckodriver	INFO	geckodriver 0.21.0
+1538752513104	geckodriver	INFO	Listening on 127.0.0.1:51754
+1538752516165	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.Puey1MzyQP3f"
+*** You are running in headless mode.
+1538752517845	Marionette	INFO	Listening on port 51762
+1538752518339	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538752518369	Marionette	DEBUG	[6442450945] Frame script loaded
+1538752518371	Marionette	DEBUG	[6442450945] Frame script registered
+1538752518385	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538752518650	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538752519767	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+1538752520549	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1539164535338	geckodriver	INFO	geckodriver 0.21.0
+1539164535353	geckodriver	INFO	Listening on 127.0.0.1:50253
+1539164538415	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.sJip5YAo9QSV"
+*** You are running in headless mode.
+1539164540045	Marionette	INFO	Listening on port 50267
+1539164540089	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539164540118	Marionette	DEBUG	[6442450945] Frame script loaded
+1539164540123	Marionette	DEBUG	[6442450945] Frame script registered
+1539164540156	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539164540597	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539164541164	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+1539164544254	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1539164565619	Marionette	INFO	Stopped listening on port 50267
+[Parent 3204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 1057: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+1539164565732	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1539164565735	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539164565735	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539166169725	geckodriver	INFO	geckodriver 0.21.0
+1539166169741	geckodriver	INFO	Listening on 127.0.0.1:50573
+1539166172818	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.xVfFvFAl68kM"
+*** You are running in headless mode.
+1539166174371	Marionette	INFO	Listening on port 50581
+1539166174485	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539166174512	Marionette	DEBUG	[6442450945] Frame script loaded
+1539166174515	Marionette	DEBUG	[6442450945] Frame script registered
+1539166174532	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539166174799	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539166175593	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+1539166176635	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1539166198593	Marionette	INFO	Stopped listening on port 50581
+[Child 4948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539166255138	geckodriver	INFO	geckodriver 0.21.0
+1539166255153	geckodriver	INFO	Listening on 127.0.0.1:50645
+1539166258231	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.YfBek2Lm9XC5"
+*** You are running in headless mode.
+1539166259779	Marionette	INFO	Listening on port 50653
+1539166259906	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539166259933	Marionette	DEBUG	[6442450945] Frame script loaded
+1539166259937	Marionette	DEBUG	[6442450945] Frame script registered
+1539166259957	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539166260276	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539166260945	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+1539166261533	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1539166283189	Marionette	INFO	Stopped listening on port 50653
+[Child 7480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc[Parent 9344, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2964, Chrome_ChildThread] WAR[Parent 9344, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7592, Chro1539166338272	geckodriver	INFO	geckodriver 0.21.0
+1539166338272	geckodriver	INFO	Listening on 127.0.0.1:50713
+1539166341350	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.tUif0TwpATKu"
+*** You are running in headless mode.
+1539166342636	Marionette	INFO	Listening on port 50721
+1539166343024	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539166343049	Marionette	DEBUG	[6442450945] Frame script loaded
+1539166343050	Marionette	DEBUG	[6442450945] Frame script registered
+1539166343066	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539166343358	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539166343895	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+1539166344729	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1539166366022	Marionette	INFO	Stopped listening on port 50721
+[Child 3108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3108, Chrome_ChildThread] WA[Child 2664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2664, Chrome_ChildThread] WARNING: pipe err[Parent 5204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6044, Chrome_ChildThread] WARNING: p1539166561151	geckodriver	INFO	geckodriver 0.21.0
+1539166561151	geckodriver	INFO	Listening on 127.0.0.1:50791
+1539166564213	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.2pHdhykKehpK"
+*** You are running in headless mode.
+1539166565548	Marionette	INFO	Listening on port 50799
+1539166565856	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539166565883	Marionette	DEBUG	[6442450945] Frame script loaded
+1539166565884	Marionette	DEBUG	[6442450945] Frame script registered
+1539166565897	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539166566149	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539166566737	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+1539166567623	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1539166589012	Marionette	INFO	Stopped listening on port 50799
+[Child 7332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ip[Child 8300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8300, Chrome_ChildThread] WARNING[Parent 4124, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539166853241	geckodriver	INFO	geckodriver 0.21.0
+1539166853241	geckodriver	INFO	Listening on 127.0.0.1:58434
+1539166856318	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.PfnlnzQwpV5d"
+*** You are running in headless mode.
+1539166857802	Marionette	INFO	Listening on port 58442
+1539166857978	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539166858004	Marionette	DEBUG	[6442450945] Frame script loaded
+1539166858005	Marionette	DEBUG	[6442450945] Frame script registered
+1539166858018	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539166858273	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539166859144	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+1539166859863	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1539166881279	Marionette	INFO	Stopped listening on port 58442
+[Child 7152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7152, Chrome_ChildThread] WARNING: pipe error: 109: file z:[Parent 6400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539167554469	geckodriver	INFO	geckodriver 0.21.0
+1539167554469	geckodriver	INFO	Listening on 127.0.0.1:58782
+1539167557546	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.1zQ7BGkca35m"
+*** You are running in headless mode.
+1539167559438	Marionette	INFO	Listening on port 58790
+1539167559705	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539167559740	Marionette	DEBUG	[6442450945] Frame script loaded
+1539167559741	Marionette	DEBUG	[6442450945] Frame script registered
+1539167559758	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539167560019	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539167560627	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+1539167561986	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1539167786639	geckodriver	INFO	geckodriver 0.21.0
+1539167786655	geckodriver	INFO	Listening on 127.0.0.1:58882
+1539167789717	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.gxAr8NvJZsxE"
+*** You are running in headless mode.
+1539167791465	Marionette	INFO	Listening on port 58890
+1539167791908	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539167791933	Marionette	DEBUG	[6442450945] Frame script loaded
+1539167791934	Marionette	DEBUG	[6442450945] Frame script registered
+1539167791949	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539167792218	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539167793032	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+1539167793849	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1539167804337	Marionette	INFO	Stopped listening on port 58890
+[Parent 7648, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2896, Chrome_ChildThread] WARNING: pipe error: 109: file [Parent 7648, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/c1539167885611	geckodriver	INFO	geckodriver 0.21.0
+1539167885611	geckodriver	INFO	Listening on 127.0.0.1:58998
+1539167888689	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.XLiu087J2PJ3"
+*** You are running in headless mode.
+1539167889960	Marionette	INFO	Listening on port 59006
+1539167890363	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539167890388	Marionette	DEBUG	[6442450945] Frame script loaded
+1539167890389	Marionette	DEBUG	[6442450945] Frame script registered
+1539167890403	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539167890963	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539167892099	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+1539167892866	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1539167914451	Marionette	INFO	Stopped listening on port 59006
+[Parent 700, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, li[Child 3996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3996, Chro1539168023380	geckodriver	INFO	geckodriver 0.21.0
+1539168023380	geckodriver	INFO	Listening on 127.0.0.1:59087
+1539168026458	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.7e6GHyx5oORU"
+*** You are running in headless mode.
+1539168027751	Marionette	INFO	Listening on port 59095
+1539168028116	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539168028141	Marionette	DEBUG	[6442450945] Frame script loaded
+1539168028142	Marionette	DEBUG	[6442450945] Frame script registered
+1539168028156	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539168028442	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539168028968	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+1539168029983	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1539168051431	Marionette	INFO	Stopped listening on port 59095
+[Parent 3348, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9420, Chrome_ChildThread] WARNING: pipe error[Parent 3348, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9404, Chrome_[Child 6664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6664, Chr1539168094677	geckodriver	INFO	geckodriver 0.21.0
+1539168094692	geckodriver	INFO	Listening on 127.0.0.1:59148
+1539168097739	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.uhqnxn1a9u7G"
+*** You are running in headless mode.
+1539168099212	Marionette	INFO	Listening on port 59156
+1539168099413	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539168099438	Marionette	DEBUG	[6442450945] Frame script loaded
+1539168099439	Marionette	DEBUG	[6442450945] Frame script registered
+1539168099453	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539168099739	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539168100264	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+1539168101314	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1539168111708	Marionette	INFO	Stopped listening on port 59156
+[Parent 1800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/i[Parent 1800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9988, Chrome_ChildThread] 1539168152179	geckodriver	INFO	geckodriver 0.21.0
+1539168152179	geckodriver	INFO	Listening on 127.0.0.1:59219
+1539168155241	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.Oe8foy2uQbku"
+*** You are running in headless mode.
+1539168156478	Marionette	INFO	Listening on port 59227
+1539168156899	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539168156925	Marionette	DEBUG	[6442450945] Frame script loaded
+1539168156927	Marionette	DEBUG	[6442450945] Frame script registered
+1539168156941	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539168157238	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539168157780	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+1539168158851	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1539168180283	Marionette	INFO	Stopped listening on port 59227
+[Child 4576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4576, Chrome_ChildThread] WARNING: pipe error: 109: fi[Parent 2148, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7556, Chrome_ChildThread] WARNING: pipe er[Parent 2148, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1820, Chrome_C1539168225303	geckodriver	INFO	geckodriver 0.21.0
+1539168225318	geckodriver	INFO	Listening on 127.0.0.1:59275
+1539168228380	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.po3qZYRn3K12"
+*** You are running in headless mode.
+1539168229631	Marionette	INFO	Listening on port 59283
+1539168230023	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539168230049	Marionette	DEBUG	[6442450945] Frame script loaded
+1539168230051	Marionette	DEBUG	[6442450945] Frame script registered
+1539168230065	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539168230329	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539168230835	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+1539168231942	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1539168253450	Marionette	INFO	Stopped listening on port 59283
+[Parent 7448, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4548, Chrome_ChildThread] WARNING:[Parent 7448, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7448, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539168443992	geckodriver	INFO	geckodriver 0.21.0
+1539168443992	geckodriver	INFO	Listening on 127.0.0.1:59369
+1539168447086	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.O0UrvfUHzh1a"
+*** You are running in headless mode.
+1539168448420	Marionette	INFO	Listening on port 59377
+1539168448744	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539168448770	Marionette	DEBUG	[6442450945] Frame script loaded
+1539168448771	Marionette	DEBUG	[6442450945] Frame script registered
+1539168448786	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539168449058	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539168449563	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+1539168450483	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1539168461080	Marionette	INFO	Stopped listening on port 59377
+[Parent 2528, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9772, Chrome_ChildThread] WARNING: pipe err[Parent 2528, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5884, Chrome1539186250798	geckodriver	INFO	geckodriver 0.21.0
+1539186250806	geckodriver	INFO	Listening on 127.0.0.1:60338
+1539186253829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.nW3mSVBvn0GN"
+*** You are running in headless mode.
+1539186255867	Marionette	INFO	Listening on port 60346
+1539186255938	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539186255966	Marionette	DEBUG	[6442450945] Frame script loaded
+1539186255967	Marionette	DEBUG	[6442450945] Frame script registered
+1539186255981	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539186256296	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539186257060	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1539186258213	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1539186280251	Marionette	INFO	Stopped listening on port 60346
+[Child 5740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10768, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9148, Chrome_ChildThread] WARNING: p1539186528680	geckodriver	INFO	geckodriver 0.21.0
+1539186528689	geckodriver	INFO	Listening on 127.0.0.1:60520
+1539186531703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.CYFP292whD80"
+*** You are running in headless mode.
+1539186533998	Marionette	INFO	Listening on port 60542
+1539186534417	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539186534449	Marionette	DEBUG	[6442450945] Frame script loaded
+1539186534458	Marionette	DEBUG	[6442450945] Frame script registered
+1539186534474	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539186534728	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539186536103	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+1539186536241	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1539186588761	Marionette	INFO	Stopped listening on port 60542
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[C
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+hild 11796
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11796, Chrome_Ch[Child 11772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11772, Chro1539186628229	geckodriver	INFO	geckodriver 0.21.0
+1539186628237	geckodriver	INFO	Listening on 127.0.0.1:60646
+1539186631250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.tZ7LcNgoQOeC"
+*** You are running in headless mode.
+1539186632711	Marionette	INFO	Listening on port 60654
+1539186632878	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539186632906	Marionette	DEBUG	[6442450945] Frame script loaded
+1539186632908	Marionette	DEBUG	[6442450945] Frame script registered
+1539186632921	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539186633180	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539186634052	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+1539186634326	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 6128, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539186656156	Marionette	INFO	Stopped listening on port 60654
+[[Parent 6128, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10764, Chro1539186751772	geckodriver	INFO	geckodriver 0.21.0
+1539186751781	geckodriver	INFO	Listening on 127.0.0.1:60720
+1539186754793	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.PXbR0xIgo4fB"
+*** You are running in headless mode.
+1539186756336	Marionette	INFO	Listening on port 60728
+1539186756402	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539186756437	Marionette	DEBUG	[6442450945] Frame script loaded
+1539186756438	Marionette	DEBUG	[6442450945] Frame script registered
+1539186756469	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539186756714	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539186757542	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1539186758642	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1539186780322	Marionette	INFO	Stopped listening on port 60728
+[Parent 11812, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11948, Chro1539186870989	geckodriver	INFO	geckodriver 0.21.0
+1539186870996	geckodriver	INFO	Listening on 127.0.0.1:60788
+1539186874024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.tXiWjhKzlDuI"
+*** You are running in headless mode.
+1539186875371	Marionette	INFO	Listening on port 60796
+1539186875634	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539186875660	Marionette	DEBUG	[6442450945] Frame script loaded
+1539186875661	Marionette	DEBUG	[6442450945] Frame script registered
+1539186875674	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539186875978	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539186877026	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1539186878307	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1539186899999	Marionette	INFO	Stopped listening on port 60796
+[Child 12096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9736, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539187184813	geckodriver	INFO	geckodriver 0.21.0
+1539187184823	geckodriver	INFO	Listening on 127.0.0.1:60922
+1539187187854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.bZmpHaCYtoJg"
+*** You are running in headless mode.
+1539187189155	Marionette	INFO	Listening on port 60930
+1539187189506	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539187189533	Marionette	DEBUG	[6442450945] Frame script loaded
+1539187189534	Marionette	DEBUG	[6442450945] Frame script registered
+1539187189548	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539187189796	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539187190394	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+1539187191614	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1539187213196	Marionette	INFO	Stopped listening on port 60930
+[Child 8804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10768, Chrome_ChildT1539187583894	geckodriver	INFO	geckodriver 0.21.0
+1539187583904	geckodriver	INFO	Listening on 127.0.0.1:61050
+1539187586959	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.xmOcyscW2J6l"
+*** You are running in headless mode.
+1539187588334	Marionette	INFO	Listening on port 61058
+1539187588588	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539187588614	Marionette	DEBUG	[6442450945] Frame script loaded
+1539187588615	Marionette	DEBUG	[6442450945] Frame script registered
+1539187588630	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539187588924	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539187589939	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1539187590749	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/91SXtrz-anL.js?AUIClients/AmazonLiveReactAssetsBuild-react-core, line 906: Error: Error while fetching data from S3. Error was: [object Object]
+[Parent 408, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539187612211	Marionette	INFO	Stopped listening on port 61058
+[Child 4392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[[Parent 408, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5032, Chrome1539187650674	geckodriver	INFO	geckodriver 0.21.0
+1539187650678	geckodriver	INFO	Listening on 127.0.0.1:61135
+1539187653714	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.gmVuUkP1DFXo"
+*** You are running in headless mode.
+1539187654984	Marionette	INFO	Listening on port 61143
+1539187655336	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539187655365	Marionette	DEBUG	[6442450945] Frame script loaded
+1539187655366	Marionette	DEBUG	[6442450945] Frame script registered
+1539187655381	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539187655678	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539187656422	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1539187657532	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1539187679205	Marionette	INFO	Stopped listening on port 61143
+[Parent 4660, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/[Parent 4660, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539188071191	geckodriver	INFO	geckodriver 0.21.0
+1539188071199	geckodriver	INFO	Listening on 127.0.0.1:61217
+1539188074222	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.CYMdArcpR0Gc"
+*** You are running in headless mode.
+1539188075579	Marionette	INFO	Listening on port 61225
+1539188075830	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539188075857	Marionette	DEBUG	[6442450945] Frame script loaded
+1539188075859	Marionette	DEBUG	[6442450945] Frame script registered
+1539188075872	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539188076207	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539188077234	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1539188078658	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+[Parent 816, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539188100257	Marionette	INFO	Stopped listening on port 61225
+[Child 5560, Chrome_ChildThread] W
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5560, Chrome_ChildThread] WA[Parent 816, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11856, Chrome_ChildThread] WARNING: pipe error: 11539188129065	geckodriver	INFO	geckodriver 0.21.0
+1539188129073	geckodriver	INFO	Listening on 127.0.0.1:61295
+1539188132098	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.HP4YyFBggu47"
+*** You are running in headless mode.
+1539188133419	Marionette	INFO	Listening on port 61303
+1539188133707	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539188133733	Marionette	DEBUG	[6442450945] Frame script loaded
+1539188133734	Marionette	DEBUG	[6442450945] Frame script registered
+1539188133749	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539188134049	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539188134672	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+1539188135619	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1539188157117	Marionette	INFO	Stopped listening on port 61303
+[Child 8368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8368, Chrom[Child 11512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11384, Chr1539188241967	geckodriver	INFO	geckodriver 0.21.0
+1539188241974	geckodriver	INFO	Listening on 127.0.0.1:61360
+1539188244997	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.0XCQrFuQzN5x"
+*** You are running in headless mode.
+1539188246336	Marionette	INFO	Listening on port 61368
+1539188246606	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539188246634	Marionette	DEBUG	[6442450945] Frame script loaded
+1539188246636	Marionette	DEBUG	[6442450945] Frame script registered
+1539188246650	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539188246934	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539188247697	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1539188249098	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1539188270522	Marionette	INFO	Stopped listening on port 61368
+[Parent 11536, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10504, Chrome_[Parent 11536, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12140, Chrom1539188316146	geckodriver	INFO	geckodriver 0.21.0
+1539188316154	geckodriver	INFO	Listening on 127.0.0.1:61469
+1539188319156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.7QECmAeHI4H4"
+*** You are running in headless mode.
+1539188320514	Marionette	INFO	Listening on port 61478
+1539188320769	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539188320796	Marionette	DEBUG	[6442450945] Frame script loaded
+1539188320798	Marionette	DEBUG	[6442450945] Frame script registered
+1539188320813	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539188321151	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539188321900	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+1539188322321	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1539188343877	Marionette	INFO	Stopped listening on port 61478
+[Child 11464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome[Parent 10528, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11488, Chrome_ChildThread] WARNING: pipe1539188428611	geckodriver	INFO	geckodriver 0.21.0
+1539188428618	geckodriver	INFO	Listening on 127.0.0.1:61556
+1539188431655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.Zlnd8HCRpmzj"
+*** You are running in headless mode.
+1539188432984	Marionette	INFO	Listening on port 61564
+1539188433263	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539188433289	Marionette	DEBUG	[6442450945] Frame script loaded
+1539188433290	Marionette	DEBUG	[6442450945] Frame script registered
+1539188433303	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539188433556	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539188434385	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1539188435535	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+[Parent 10444, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539188446191	Marionette	INFO	Stopped listening on port 61564
+[Child 11444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11128, Chrome_1539270520197	geckodriver	INFO	geckodriver 0.21.0
+1539270520213	geckodriver	INFO	Listening on 127.0.0.1:51004
+1539270523268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.HAonXCL8rZXC"
+*** You are running in headless mode.
+1539270524713	Marionette	INFO	Listening on port 51012
+1539270524906	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539270524933	Marionette	DEBUG	[6442450945] Frame script loaded
+1539270524940	Marionette	DEBUG	[6442450945] Frame script registered
+1539270524958	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539270525257	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539270525798	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+1539270527192	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1539270548959	Marionette	INFO	Stopped listening on port 51012
+[Parent 8228, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9544, Chrome_Ch[Parent 8228, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539270989231	geckodriver	INFO	geckodriver 0.21.0
+1539270989231	geckodriver	INFO	Listening on 127.0.0.1:51103
+1539270992256	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.2H0pxIT692TO"
+*** You are running in headless mode.
+1539270993558	Marionette	INFO	Listening on port 51111
+1539270993878	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539270993904	Marionette	DEBUG	[6442450945] Frame script loaded
+1539270993905	Marionette	DEBUG	[6442450945] Frame script registered
+1539270993920	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539270994201	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539270994804	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+1539270995683	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1539271017659	Marionette	INFO	Stopped listening on port 51111
+[Child 10416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10416, Chrome_ChildThread] WARNING: pipe error: 109: file z:[Parent 4384, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8932, Chrom1539271071714	geckodriver	INFO	geckodriver 0.21.0
+1539271071729	geckodriver	INFO	Listening on 127.0.0.1:56911
+1539271074768	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.gKg3J0why0bL"
+*** You are running in headless mode.
+1539271076162	Marionette	INFO	Listening on port 56919
+1539271076403	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539271076432	Marionette	DEBUG	[6442450945] Frame script loaded
+1539271076433	Marionette	DEBUG	[6442450945] Frame script registered
+1539271076447	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539271076740	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539271077944	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+1539271081531	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1539271092389	Marionette	INFO	Stopped listening on port 56919
+[Child 7788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6544, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3868, Chrome_1539271126804	geckodriver	INFO	geckodriver 0.21.0
+1539271126804	geckodriver	INFO	Listening on 127.0.0.1:56994
+1539271129858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.gjxwd3QHg6ru"
+*** You are running in headless mode.
+1539271131139	Marionette	INFO	Listening on port 57002
+1539271131481	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539271131506	Marionette	DEBUG	[6442450945] Frame script loaded
+1539271131507	Marionette	DEBUG	[6442450945] Frame script registered
+1539271131524	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539271131827	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539271132443	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+1539271133406	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1539271154913	Marionette	INFO	Stopped listening on port 57002
+[Child 4604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4604, Chrome[Parent 5700, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8072, Chro1539271279479	geckodriver	INFO	geckodriver 0.21.0
+1539271279479	geckodriver	INFO	Listening on 127.0.0.1:57089
+1539271282502	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.XYOtCXW9cE9F"
+*** You are running in headless mode.
+1539271283776	Marionette	INFO	Listening on port 57097
+1539271284147	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539271284177	Marionette	DEBUG	[6442450945] Frame script loaded
+1539271284178	Marionette	DEBUG	[6442450945] Frame script registered
+1539271284193	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539271284493	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539271285242	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+1539271286152	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1539271307669	Marionette	INFO	Stopped listening on port 57097
+[Child 3636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3636, Chro[Parent 1864, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1061539271435498	geckodriver	INFO	geckodriver 0.21.0
+1539271435513	geckodriver	INFO	Listening on 127.0.0.1:57136
+1539271438521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.EHaCayX1Umtk"
+*** You are running in headless mode.
+1539271439764	Marionette	INFO	Listening on port 57144
+1539271440144	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539271440170	Marionette	DEBUG	[6442450945] Frame script loaded
+1539271440171	Marionette	DEBUG	[6442450945] Frame script registered
+1539271440186	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539271440504	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539271441120	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+1539271441933	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1539271463480	Marionette	INFO	Stopped listening on port 57144
+[Child 5432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2204, Chrome_ChildThread] WARNING: pipe error:[Parent 1528, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5528, Chro1539272055859	geckodriver	INFO	geckodriver 0.21.0
+1539272055875	geckodriver	INFO	Listening on 127.0.0.1:57251
+1539272058931	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.aHi8i1xGLT2m"
+*** You are running in headless mode.
+1539272060212	Marionette	INFO	Listening on port 57259
+1539272060554	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539272060580	Marionette	DEBUG	[6442450945] Frame script loaded
+1539272060581	Marionette	DEBUG	[6442450945] Frame script registered
+1539272060595	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539272060851	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539272061486	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+1539272062126	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1539272084034	Marionette	INFO	Stopped listening on port 57259
+[Parent 9464, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9464, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539272166521	geckodriver	INFO	geckodriver 0.21.0
+1539272166543	geckodriver	INFO	Listening on 127.0.0.1:57308
+1539272169567	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.2UDSwPNDItGi"
+*** You are running in headless mode.
+1539272170931	Marionette	INFO	Listening on port 57316
+1539272171188	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539272171213	Marionette	DEBUG	[6442450945] Frame script loaded
+1539272171214	Marionette	DEBUG	[6442450945] Frame script registered
+1539272171228	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539272171561	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539272172166	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+1539272173123	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1539272184572	Marionette	INFO	Stopped listening on port 57316
+[Parent 9976, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3380, Chrom1539272333519	geckodriver	INFO	geckodriver 0.21.0
+1539272333519	geckodriver	INFO	Listening on 127.0.0.1:57363
+1539272336559	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.IXt9FA7SC6at"
+*** You are running in headless mode.
+1539272337811	Marionette	INFO	Listening on port 57371
+1539272338182	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539272338207	Marionette	DEBUG	[6442450945] Frame script loaded
+1539272338208	Marionette	DEBUG	[6442450945] Frame script registered
+1539272338222	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539272338514	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539272339606	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+1539272340099	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1539272397859	Marionette	INFO	Stopped listening on port 57371
+[Child 3680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/i[Parent 10864, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/c[Parent 10864, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
