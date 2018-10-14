@@ -37,10 +37,9 @@ class InstaCrawler:
 
             element_click.click()
 
-            users_names = []
-
             cou = 0
             page_arrow_old = ''
+            users_names = []
 
             for i in range(len(most_popular_posts)):
 
