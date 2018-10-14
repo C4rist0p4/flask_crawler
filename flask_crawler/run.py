@@ -1,12 +1,13 @@
 from flask import Flask, jsonify
-from flask_crawler.Insta_Crawler import Insta_Crawler
+from flask_crawler.Insta_Crawler import InstaCrawler
 
 app = Flask(__name__)
+
 
 @app.route('/', methods=['GET'])
 def hello():
 
-    crawler = Insta_Crawler()
+    crawler = InstaCrawler('sport')
     items = crawler.crawl()
 
-    return jsonify({'Movie': [item for item in items]})
+    return jsonify(items)

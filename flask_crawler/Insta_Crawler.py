@@ -1,60 +1,86 @@
-from selenium import webdriver
-from selenium.webdriver.firefox.options import Options
+from selenium.webdriver import Chrome
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.action_chains import ActionChains
+from selenium.common.exceptions import TimeoutException
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+import os
 
-class Insta_Crawler():
 
-    def crawl(self):
-        url = "https://www.instagram.com/explore/tags/sport/"
+class InstaCrawler:
 
+    def __init__(self, search_object):
+
+        self.url = "https://www.instagram.com/explore/tags/" + search_object
         options = Options()
         options.add_argument("--headless")
 
-        driver = webdriver.Firefox(firefox_options=options)
-        driver.implicitly_wait(5)
+        self.driver = Chrome(os.path.dirname(__file__) + '/chromedriver', chrome_options = options)
+        self.wait = WebDriverWait(self.driver, 3)
+
+    def crawl(self):
 
         try:
+            self.driver.get(self.url)
 
-            driver.get(url)
+            most_popular_posts = self.driver.find_elements_by_class_name('v1Nh3')
 
-            most_popular_posts = driver.find_elements_by_class_name('v1Nh3')
+            hover = ActionChains(self.driver)
+            hover.move_to_element(most_popular_posts[0]).perform()
+
+            try:
+                element_click = self.wait.until(EC.element_to_be_clickable((By.CLASS_NAME, '_6S0lP')))
+            except TimeoutException:
+                hover.move_to_element(most_popular_posts[0]).perform()
+                element_click = self.wait.until(EC.element_to_be_clickable((By.CLASS_NAME, '_6S0lP')))
+
+            element_click.click()
 
             users_names = []
 
             cou = 0
-            for i in most_popular_posts:
+            page_arrow_old = ''
 
-                driver.execute_script("arguments[0].scrollIntoView();", i)
+            for i in range(len(most_popular_posts)):
 
-                hover = ActionChains(driver).move_to_element(i)
-                hover.click().perform()
+                page_arrow = self.wait.until(EC.element_to_be_clickable((By.CLASS_NAME, 'coreSpriteRightPaginationArrow')))
 
-                users_names.append(driver.find_element_by_class_name('FPmhX').text)
+                while page_arrow.get_attribute('href') == page_arrow_old:
+                    page_arrow = self.driver.find_element_by_class_name('coreSpriteRightPaginationArrow')
 
-                driver.find_element_by_class_name('ckWGn').click()
+                element = self.wait.until(EC.visibility_of_element_located((By.CLASS_NAME, 'FPmhX')))
+                users_names.append(element.text)
 
-                cou += 1
-                if cou == 3:
-                    cou = 0
-                    break
+                page_arrow_old = page_arrow.get_attribute('href')
 
-            for user_name in users_names:
-
-                driver.get('https://www.instagram.com/' + user_name)
-
-                user_data = driver.find_elements_by_class_name('-nal3')
-
-                print('Name: ' + user_name)
-
-                for info in user_data:
-                    print(info.text)
+                page_arrow.click()
 
                 cou += 1
                 if cou == 3:
                     break
+            j = self.to_json(users_names)
 
-
-            return users_names
+            return j
 
         finally:
-            driver.quit()
+            self.driver.close()
+
+    def to_json(self, users_names):
+
+        json = []
+
+        for user_name in users_names:
+
+            self.driver.get('https://www.instagram.com/' + user_name)
+            user_json = {'name': user_name, 'data': {}}
+
+            user_data = self.driver.find_elements_by_class_name('-nal3')
+
+            for info in user_data:
+                data, description = info.text.split(' ')
+                user_json['data'].update({description: data})
+
+            json.append(user_json)
+
+        return json
