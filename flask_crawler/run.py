@@ -8,7 +8,6 @@ app = Flask(__name__)
 @app.route("/search")
 def test():
     search = request.args.get('search')
-    print(search)
 
     if search is None:
         return render_template('test.html')
